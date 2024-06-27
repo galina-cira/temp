@@ -23,11 +23,7 @@
         "Test4"
     ],
     "grants": [
-    {"id": "10.13039/501100000780::675191", 
-      "funder": {
-        "name": "Funder Name",
-        "identifier": "Funder Identifier",
-        "scheme": "Funder Scheme"
+    {"id": "10.13039/501100000780::675191"
       }
     }
   ]
