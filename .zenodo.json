@@ -7,13 +7,11 @@
     "creators": [
         {
             "name": "Foo",
-            "affiliation": "Bar",
-            "orcid": "0000"
+            "affiliation": "Bar"
         },
         {
             "name": "Foo",
-            "affiliation": "Bar",
-            "orcid": "0000"
+            "affiliation": "Bar"
         }               
     ],
     "keywords": [
