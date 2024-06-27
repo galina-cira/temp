@@ -24,7 +24,6 @@
     ],
     "grants": [
     {
-      "id": "",
       "funder": {
         "name": "Funder Name",
         "identifier": "Funder Identifier",
